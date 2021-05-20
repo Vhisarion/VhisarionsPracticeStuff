@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: vhisarionspracticestuff
+Specification-Vendor: vhisarionspracticestuffsareus
+Specification-Version: 1
+Implementation-Title: VhisarionsPracticeStuff
+Implementation-Version: 0.1
+Implementation-Vendor: vhisarionspracticestuffsareus
+Implementation-Timestamp: 2021-05-20T12:33:53+0200
+

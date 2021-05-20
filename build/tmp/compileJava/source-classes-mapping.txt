@@ -1,0 +1,3 @@
+com/example/examplemod/ExampleMod.java
+ com.example.examplemod.ExampleMod
+ com.example.examplemod.ExampleMod$RegistryEvents
